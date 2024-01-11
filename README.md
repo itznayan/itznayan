@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itznayan
-- 👀 I’m interested in gaming,coding & cybersecurity
+- 👀 I’m interested in Gaming,Coding & Cybersecurity
 - 🌱 I’m currently learning Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
