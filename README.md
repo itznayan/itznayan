@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itznayan
+- 👋 Hi, I’m @oreki_engineer
 - 👀 I’m interested in Gaming,Coding & Cybersecurity
 - 🌱 I’m currently learning Engineering
 - 💞️ I’m looking to collaborate on ...
