@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oreki_engineer
-- 👀 I’m interested in Gaming,Coding & Cybersecurity
+- 👀 I’m interested in Frontend & Anodroid App Devlopment ,Gaming, & Cybersecurity
 - 🌱 I’m currently learning Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
