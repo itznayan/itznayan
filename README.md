@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @oreki_engineer
-- 👀 I’m interested in Frontend & Anodroid App Devlopment ,Gaming, & Cybersecurity
-- 🌱 I’m currently learning Engineering
+- 👋 Hi, I’m Nayan Mahera
+- 👀 I’m interested in Frontend Development , Anodroid App Devlopment & Gaming.
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he
