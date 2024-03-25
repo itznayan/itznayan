@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nayan Mahera
-- 👀 I’m interested in Frontend Development , Anodroid App Devlopment & Gaming.
+- 👀 I’m interested in Frontend Development & Anodroid App Devlopment.
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
