@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nayan Mahera
 - 👀 I’m interested in Frontend Development & Anodroid App Devlopment.
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning React JS
 - 📫 How to reach me ...
 - 😄 Pronouns: he
 - ⚡ Fun fact: 
