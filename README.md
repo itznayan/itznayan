@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Nayan Mahera<br>- 👀 I’m interested in Frontend Development & Anodroid App Devlopment.<br>- 🌱 I’m currently learning React JS<br>- 📫 How to reach me ...<br>- 😄 Pronouns: he<br>- ⚡ Fun fact: <br>
+- 👋 Hi, I’m Nayan Mahera<br>- 👀 I’m interested in Frontend Development & Android App Devlopment.<br>- 🌱 I’m currently learning React JS<br>- 📫 How to reach me ...<br>- 😄 Pronouns: he<br>- ⚡ Fun fact: <br>
 
 
 ## 🌐 Socials:
