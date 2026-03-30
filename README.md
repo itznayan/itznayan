@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Nayan Mahera<br>- 👀 I’m interested in Frontend Development & Mobile App Devlopment.<br>- 🌱 I’m currently learning React Native <br>- 📫 How to reach me maheranayan513@gmail.com ...<br>- 😄 Pronouns: he<br>- ⚡ Fun fact: fall for 1 three time 
+- 👋 Hi, I’m Nayan Mahera<br>- 👀 I’m interested in Frontend Development & Mobile App Devlopment.<br>- 🌱 I’m currently learning React Native <br>- 📫 How to reach me maheranayan18@gmail.com ...<br>- 😄 Pronouns: he<br>- ⚡ Fun fact: fall for 1 three time 
 
 
 ## 🌐 Socials:
